@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Button Experiment</string>
+    <string name="button_experiment">Button Experiment</string>
+    <string name="a_game_by_eylam_tagor">a game by Eylam Tagor</string>
+    <string name="game_by_me">a game by Eylam Tagor</string>
+    <string name="level_1">Level 1</string>
+    <string name="level_one">Level 1</string>
+    <string name="level_two">Level 2</string>
+    <string name="level_3">Level 3</string>
+    <string name="level_three">Level 3</string>
+    <string name="show_hint">Show Hint</string>
+    <string name="hide_hint">Hide Hint</string>
+    <string name="hint_one">Which level is this? Draw using the buttons.</string>
+    <string name="not_yet">Not yet! You can only go on once this puzzle is solved.</string>
+    <string name="puzzle_experiments">Puzzle Experiments</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="sub_congrats">You have proven yourself a remarkably resourceful person by solving these puzzles.\n\nGive yourself a pat on the back.</string>
+    <string name="times">12, 6, 9</string>
+    <string name="hint_two">Think of a clock.</string>
+    <string name="hint_three">Unscramble.</string>
+    <string name="scrambled">HSTI-SI-ETH-SSOAWDRP</string>
+</resources>
